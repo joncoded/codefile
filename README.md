@@ -1,5 +1,5 @@
 ---
-description: ...to the online coding notebook of @joncoded
+description: the online coding notebook of @joncoded
 ---
 
 # 🏡 Introduction
