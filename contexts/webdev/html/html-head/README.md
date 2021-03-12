@@ -32,13 +32,7 @@ As with the `<body>` any and all tags in `<head>` are really optional but typica
   * not to be confused with **heading** like `<h1>`, `<h2>`, etc. 
   * search engines will use this as a webpage's title
 * `<meta>` = page metadata for search engines to use
-* `<link>` = references to other external scripts such as [CSS stylesheets](../css/)
+* `<link>` = references to other external scripts such as [CSS stylesheets](../../css/)
 
-### `<link>` tags
-
-The most common use of the `<link>` tag is to include, or relate \(hence `rel`\), a [CSS](../css/) stylesheet file:
-
-```markup
-<link rel="stylesheet" href="style.css">
-```
+### \`\`
 
