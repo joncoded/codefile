@@ -4,6 +4,8 @@ After installation, we may wish to customize your Git with the following:
 
 ### User setup
 
+Usually, you would do this _once_ \(unless you re-format your computer or get a new one\): 
+
 #### Username
 
 When you make a commit, what would you want to show as your name?
@@ -42,13 +44,15 @@ $ git config --global user.email
 
 ### Repository \(repo\) setup
 
+You would do this only _once per repository_: 
+
 To create a **repository \(repo\)** for the current working folder:
 
 ```text
 $ git init
 ```
 
-### Remote repository setup
+#### Connecting to a remote repository 
 
 To connect the \(already-created\) **remote** version of our local repo: 
 
@@ -62,11 +66,13 @@ Replace:
 * `[repoURL]` with the GitHub repository URL in the form: 
   * https://github.com/username/\[repo\].git
 
-#### Removing the remote repository
+#### Removing a remote repository
 
 For whatever reason, we can also delete the remote with this command from the local working folder: 
 
 ```text
 $ git remote rm [remotename]
 ```
+
+
 
