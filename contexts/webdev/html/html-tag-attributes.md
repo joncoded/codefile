@@ -16,7 +16,7 @@ If tags were physical objects, think of the **attribute** as a _dimension_ like 
 
 Also, coming from other backgrounds: 
 
-* We may know the attribute as a **property** in other programming languages and in science
+* We may know the attribute as a _**property**_ ****in other programming languages and in science
   * e.g. "the properties of helium" in chemistry
 * In linguistics, attributes resemble _**adjectives**_ as they _describe_ the object \(i.e. the HTML tag\)
 
