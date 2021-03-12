@@ -2,7 +2,7 @@
 description: the metadata part of a webpage
 ---
 
-# 🚧 HTML head
+# 🚧 HTML &lt;head&gt;
 
 As the `<html>` tag usually contains two top-level child tags: `<head>` and `<body>` we know that while the `<body>` contains the main content, the `<head>` contains "content about the content", also known as **metadata**:
 
