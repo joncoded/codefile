@@ -38,3 +38,25 @@ As part of semantic HTML, **tables** allow us to make "two-dimensional lists" wi
 </table>    
 ```
 
+A table with this structure should appear \(although, of course, styling will differ\): 
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| :--- | :--- | :--- |
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+| **Total, Column 1** | **Total, Column 2** | **Total, Column 3** |
+
+### Table parts
+
+* `<table>` = a **table**
+  * `<caption>` = the table's description \(for accessibility purposes\)
+  * `<thead>` = the **table header**
+    * `<tr>`  = a **table row** 
+    * `<th>` = a **table heading** column
+  *  `<tbody>` = the **table body** that usually covers most of the table's data 
+    * `<tr>` = a **table row** \(similar to the one in `<thead>`\)
+      * `<td>` = a table cell within a table row
+  * `<tfoot>` = the **table footer** that usually has the last row of the table
+
+\(Note that the `<tfoot>` typically has the same `<tr>` and `<td>` child elements as the `<tbody>`\)
+
