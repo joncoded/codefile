@@ -39,7 +39,7 @@ This section will cover **web development** to complement the above mentioned pr
 {% page-ref page="contexts/webdev/git/" %}
 
 {% hint style="info" %}
-Moving away from my old [WordPress](https://joncoded.com) onto [**Gitbook**](https://www.gitbook.com) because this platform has:
+Moving away from my old WordPress onto [**Gitbook**](https://www.gitbook.com) because this platform has:
 
 * a free hosting tier
 * a responsive design that includes
