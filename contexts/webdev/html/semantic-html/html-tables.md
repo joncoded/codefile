@@ -65,6 +65,8 @@ The HTML `<table>` and its child elements make up one very well-defined set of s
 {% hint style="warning" %}
 Tables were so well-defined that, in the early days of the Internet, many people once used them to _build webpage layouts_ 😮
 
-However, for many reasons beyond the scope of this page \(including accessibility\), we should **not** adopt this practice!
+However, for many reasons beyond the scope of this page \(including accessibility\), we should **not** adopt this practice...
+
+...as much as possible, tables should contain only brief amounts of text in each `<td>` cell, much like a chart that displays statistics!
 {% endhint %}
 
