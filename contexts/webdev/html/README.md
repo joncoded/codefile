@@ -20,7 +20,7 @@ In this section, we will review how to:
 * Use [semantic HTML tags](semantic-html/) which give tags a little more meaning
   * Build HTML [tables](semantic-html/html-tables.md) to display two-dimensional data
   * Build HTML [forms](semantic-html/html-forms/) for user interactivity
-* Manipulate the HTML [head](html-head/) which gives a webpage its metadata
+* Manipulate the HTML [head](html-head.md) which gives a webpage its metadata
 * Do some [optional stuff](html-optional-tags-and-things.md)
 
 
