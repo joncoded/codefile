@@ -2,7 +2,7 @@
 description: dividing up a webpage
 ---
 
-# 🚧 HTML &lt;div&gt;
+# HTML &lt;div&gt;
 
 Within an HTML page, inside the  `<body>` tag, one may `div`ide up the content in terms of `<div>` tags:
 
