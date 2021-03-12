@@ -2,7 +2,7 @@
 description: displaying data in cells on an HTML page
 ---
 
-# 🚧 HTML tables
+# HTML tables
 
 As part of semantic HTML, **tables** allow us to make "two-dimensional lists" with headers, rows, columns and footers:
 
@@ -48,6 +48,8 @@ A table with this structure should appear \(although, of course, styling will di
 
 ### Table parts
 
+The HTML `<table>` and its child elements make up one very well-defined set of semantic HTML tags: 
+
 * `<table>` = a **table**
   * `<caption>` = the table's description \(for accessibility purposes\)
   * `<thead>` = the **table header**
@@ -59,4 +61,10 @@ A table with this structure should appear \(although, of course, styling will di
   * `<tfoot>` = the **table footer** that usually has the last row of the table
 
 \(Note that the `<tfoot>` typically has the same `<tr>` and `<td>` child elements as the `<tbody>`\)
+
+{% hint style="warning" %}
+Tables were so well-defined that, in the early days of the Internet, many people once used them to _build webpage layouts_ 😮
+
+However, for many reasons beyond the scope of this page \(including accessibility\), we should **not** adopt this practice!
+{% endhint %}
 

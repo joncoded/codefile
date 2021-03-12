@@ -21,7 +21,7 @@
     * [HTML tag attributes](contexts/webdev/html/html-tag-attributes.md)
     * [HTML &lt;div&gt;](contexts/webdev/html/html-less-than-div-greater-than.md)
     * [Semantic HTML](contexts/webdev/html/semantic-html/README.md)
-      * [🚧 HTML tables](contexts/webdev/html/semantic-html/html-tables.md)
+      * [HTML tables](contexts/webdev/html/semantic-html/html-tables.md)
       * [HTML forms](contexts/webdev/html/semantic-html/html-forms/README.md)
         * [🚧 HTML input: text](contexts/webdev/html/semantic-html/html-forms/html-input-text.md)
         * [🚧 HTML input: radio](contexts/webdev/html/semantic-html/html-forms/html-input-radio.md)
