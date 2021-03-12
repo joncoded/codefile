@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🏡 Introduction](README.md)
-* [⬅️ joncoded.com](https://joncoded.com)
 
 ## Concepts
 
@@ -114,4 +113,8 @@
   * [🏛 \(Gallery\)](contexts/webdev/interesting-website-designs/README.md)
     * [President of Mongolia](contexts/webdev/interesting-website-designs/president-of-mongolia.md)
   * [📕 \(Glossary\)](contexts/webdev/glossary.md)
+
+---
+
+* [⬅️ Joncoded.com](https://joncoded.com)
 
