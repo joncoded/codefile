@@ -31,6 +31,7 @@
         * [🚧 HTML input: submit](contexts/webdev/html/semantic-html/html-forms/html-input-submit.md)
         * [🚧 HTML input: hidden](contexts/webdev/html/semantic-html/html-forms/html-input-hidden.md)
     * [HTML &lt;head&gt;](contexts/webdev/html/html-head.md)
+    * [HTML &lt;meta&gt;](contexts/webdev/html/html-less-than-meta-greater-than.md)
     * [🚧 HTML \(optional content\)](contexts/webdev/html/html-optional-tags-and-things.md)
     * [HTML special characters](contexts/webdev/html/html-entities-and-symbols.md)
   * [🖼 CSS](contexts/webdev/css/README.md)
