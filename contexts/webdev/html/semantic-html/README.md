@@ -6,8 +6,6 @@ description: more meaningful way to "say" <div>
 
 Instead of using `<div>` tags to divide an HTML page up, **semantic HTML** allows us to replace "`div`" with more meaningful names such as:
 
->
-
 | Tag | For |
 | :--- | :--- |
 | `<header>` | the top of a page |
