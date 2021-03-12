@@ -38,6 +38,8 @@
   * [🖼 CSS](contexts/webdev/css/README.md)
     * [CSS setup](contexts/webdev/css/css-setup.md)
     * [🚧  CSS selectors](contexts/webdev/css/css-selectors.md)
+    * [🚧 CSS media queries](contexts/webdev/css/css-media-queries.md)
+    * [🚧 CSS imports](contexts/webdev/css/css-imports.md)
     * [CSS flexbox](contexts/webdev/css/css-flexbox.md)
     * [🚧  CSS grid](contexts/webdev/css/css-grid.md)
   * [🟨 JavaScript](contexts/webdev/javascript/README.md)
