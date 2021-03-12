@@ -32,6 +32,11 @@ Type `git` plus any of the following on Terminal \(assuming that we have already
         to &quot;staging&quot; (tagged with a message summarizing the changes made)</td>
     </tr>
     <tr>
+      <td style="text-align:left"><code>stash</code>
+      </td>
+      <td style="text-align:left"><b>temporarily updates</b> the local repository without doing a commit</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><code>remote add origin [repourl]</code>
       </td>
       <td style="text-align:left"><b>connects</b> the local repository with a remote repository (usually
