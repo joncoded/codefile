@@ -34,5 +34,3 @@ As with the `<body>` any and all tags in `<head>` are really optional but typica
 * `<meta>` = page metadata for search engines to use
 * `<link>` = references to other external scripts such as [CSS stylesheets](../../css/)
 
-### \`\`
-
