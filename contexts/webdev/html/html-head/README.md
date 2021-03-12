@@ -2,7 +2,7 @@
 description: the metadata part of a webpage
 ---
 
-# 🚧 HTML &lt;head&gt;
+# HTML &lt;head&gt;
 
 As the `<html>` tag usually contains two top-level child tags: `<head>` and `<body>` we know that while the `<body>` contains the main content, the `<head>` contains "content about the content", also known as **metadata**:
 
@@ -60,5 +60,13 @@ A well-developed page typically has about a dozen of these self-closing tags for
 
 ```markup
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+### `<link>` tags
+
+The most common use of the `<link>` tag is to include, or relate \(hence `rel`\), a [CSS](../../css/) stylesheet file:
+
+```markup
+<link rel="stylesheet" href="style.css">
 ```
 

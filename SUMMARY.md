@@ -31,7 +31,7 @@
         * [🚧 HTML input: reset](contexts/webdev/html/semantic-html/html-forms/html-input-reset.md)
         * [🚧 HTML input: submit](contexts/webdev/html/semantic-html/html-forms/html-input-submit.md)
         * [🚧 HTML input: hidden](contexts/webdev/html/semantic-html/html-forms/html-input-hidden.md)
-    * [🚧 HTML &lt;head&gt;](contexts/webdev/html/html-head/README.md)
+    * [HTML &lt;head&gt;](contexts/webdev/html/html-head/README.md)
       * [🚧 HTML meta](contexts/webdev/html/html-head/html-meta.md)
     * [🚧 HTML \(optional content\)](contexts/webdev/html/html-optional-tags-and-things.md)
     * [HTML special characters](contexts/webdev/html/html-entities-and-symbols.md)
