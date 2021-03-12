@@ -10,6 +10,10 @@ Attempting to consolidate notes from years of web development into one coherent 
 Any topic marked with the 🚧 \(under construction emoji\) still requires finishing at a later date!
 {% endhint %}
 
+{% hint style="danger" %}
+This project is an ongoing work-in-progress that will likely never finish as hundreds of topics in web development exist!
+{% endhint %}
+
 ### Concepts
 
 This section will have some abstract **programming** concepts**:**
