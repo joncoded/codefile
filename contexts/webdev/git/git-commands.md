@@ -26,7 +26,7 @@ Type `git` plus any of the following on Terminal \(assuming that we have already
       <td style="text-align:left"><b>adds</b> all the chances to a file to &quot;staging&quot;</td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>commit -m &quot;message&quot;</code>
+      <td style="text-align:left"><code>commit -m <br />&quot;[message]&quot;</code>
       </td>
       <td style="text-align:left"><b>updates</b> the local repository with all the changes previously added
         to &quot;staging&quot; (tagged with a message summarizing the changes made)</td>
@@ -78,6 +78,11 @@ Type `git` plus any of the following on Terminal \(assuming that we have already
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><code>log</code>
+      </td>
+      <td style="text-align:left"><b>displays</b> a list of commits made by the current user</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><code>pull [branch]</code>
       </td>
       <td style="text-align:left"><b>retrieves</b> the latest changes of a working version from the remote
@@ -91,4 +96,8 @@ Type `git` plus any of the following on Terminal \(assuming that we have already
     </tr>
   </tbody>
 </table>
+
+### Further reading
+
+* [GitHub's Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
