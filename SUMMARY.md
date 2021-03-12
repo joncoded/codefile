@@ -108,6 +108,7 @@
     * [Git terms and commands](contexts/webdev/git/basic-git-terms-and-commands.md)
     * [Git command aliasing](contexts/webdev/git/git-aliasing.md)
     * [Git troubleshooting](contexts/webdev/git/git-troubleshooting.md)
+    * [🚧 Git and Markdown](contexts/webdev/git/git-and-markdown.md)
   * [🚨 Errors](contexts/webdev/errors.md)
   * [⚙️ Web operations](contexts/webdev/web-operations/README.md)
     * [Deploying on Netlify](contexts/webdev/web-operations/deploying-on-netlify.md)

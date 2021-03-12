@@ -8,8 +8,9 @@ description: summarizing everyone's (least) favourite software version control s
 
 * Each person can have a **local repository** \(or version of code\) 
   * they can then push to a **remote repository** \(typically on [GitHub.com](https://www.github.com)\)
-* Many people can work on the same **remote repository**
-* Everything magically gets merged... 
+* Many people can work from the same **remote repository**
+  * they would **clone** or **pull** the latest code into their locals
+* Everything gets **merged**... 
   * ...unless there's a conflict in which case developers typically resolve the conflict \(or pull their hair and/or skin out\)
 
 When things run smoothly enough, Git can feel like the most useful thing in the world as it:
@@ -20,6 +21,7 @@ When things run smoothly enough, Git can feel like the most useful thing in the 
 * simplifies code review by a lot
 * promotes open source development
 
+{% hint style="info" %}
 ### Git mountain
 
 You might "get Git" in minutes... 
@@ -36,6 +38,7 @@ Some developers:
   * so they approach the mountain at its steepest face!
 
 Anyway, we will all try to conquer this mountain a lot quicker than on the order of years!
+{% endhint %}
 
 ### Git basics
 
@@ -56,6 +59,4 @@ To "get by with Git", one just needs to know "**the flow**" in addition to these
 {% hint style="warning" %}
 Note that **Git** and **GitHub** form two related but separate ideas: the former refers to the version control system while the latter refers to a website that hosts files under that system!
 {% endhint %}
-
-
 
