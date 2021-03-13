@@ -105,3 +105,5 @@ The map should have a small "bar" at the top left which displays the latitude, l
 
 ![](../../../.gitbook/assets/2021-03-13-at-14.37.41.png)
 
+From this, we can then position all sorts of super-imposed component onto the map such as notes, statistics, legends and beyond!
+
