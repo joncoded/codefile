@@ -2,7 +2,7 @@
 description: Placing a non-Google digital map on your React site
 ---
 
-# React with Mapbox
+# React with Mapbox \(introduction\)
 
 [Mapbox](https://www.mapbox.com) allows us to display a customized map on our own websites \(provided we stay within limits\) - to do so, we need:
 
