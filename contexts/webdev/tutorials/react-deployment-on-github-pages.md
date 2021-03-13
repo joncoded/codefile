@@ -7,7 +7,7 @@ In Terminal \(or any command line\) - if we have not yet already:
 * `$ git init` 
 * `$ git remote origin add (remote url on github)`
 * `$ git add -A`
-* `$ git commit -m "pushing initial map"`
+* `$ git commit -m "pushing initial version"`
 * `$ git push origin master`
 
 ### Installing the gh-pages utility
@@ -82,5 +82,18 @@ On GitHub:
 
 Wait a few seconds or a few minutes to see the page live on: 
 
-https://**yourname**.github.io/**yourrepo**
+{% embed url="https://yourname.github.io/yourrepo" %}
+
+### **Re-deployment**
+
+**Every time we wish to redeploy we just run these commands:**
+
+* `$ git add -A`
+* `$ git commit -m "pushing another version"`
+* `$ git push origin master`
+* `$ npm run deploy`
+
+{% hint style="success" %}
+With [command aliasing](../git/git-aliasing.md) we can turn those four commands into probably just one or two commands!
+{% endhint %}
 
