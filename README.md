@@ -38,6 +38,8 @@ This section will cover **web development** to complement the above mentioned pr
 
 {% page-ref page="contexts/webdev/git/" %}
 
+{% page-ref page="contexts/webdev/tutorials/" %}
+
 {% hint style="info" %}
 Moving away from my old WordPress onto [**Gitbook**](https://www.gitbook.com) because this platform has:
 
