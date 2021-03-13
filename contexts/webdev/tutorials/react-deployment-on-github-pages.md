@@ -2,7 +2,7 @@
 
 ### Connecting the local repository with the remote
 
-In Terminal \(or any command line\) - if we have not yet already: 
+If we have not yet already, let us run these commands in **Terminal**: 
 
 * `$ git init` 
 * `$ git remote origin add (remote url on github)`
@@ -12,7 +12,7 @@ In Terminal \(or any command line\) - if we have not yet already:
 
 ### Installing the gh-pages utility
 
-Then, let's set up the gh-pages package as a "dev dependency":
+Then, let's set up the `gh-pages` package as a "dev dependency":
 
 * `$ npm install gh-pages --save-dev`
 
@@ -64,9 +64,11 @@ Overall, the `package.json` file should look something like:
 
 ### Deploying
 
-* One line: 
+* In Terminal, we can run just one-liner command: 
 
-`$ npm run deploy`
+```text
+$ npm run deploy
+```
 
 ### Setting up the remote repository for GitHub pages
 
@@ -86,7 +88,7 @@ Wait a few seconds or a few minutes to see the page live on:
 
 ### **Re-deployment**
 
-**Every time we wish to redeploy we just run these commands:**
+For every time that we wish to re-deploy, we just run these commands:
 
 * `$ git add -A`
 * `$ git commit -m "pushing another version"`
