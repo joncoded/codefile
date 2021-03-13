@@ -117,6 +117,7 @@
   * [🤔 Theories](contexts/webdev/theories/README.md)
     * [3 basic kinds of websites](contexts/webdev/theories/3-basic-kinds-of-websites.md)
   * [📓 Tutorials](contexts/webdev/tutorials/README.md)
+    * [React deployment on GitHub pages](contexts/webdev/tutorials/react-deployment-on-github-pages.md)
     * [React with Mapbox](contexts/webdev/tutorials/react-with-mapbox.md)
   * [🏛 \(Gallery\)](contexts/webdev/interesting-website-designs/README.md)
     * [President of Mongolia](contexts/webdev/interesting-website-designs/president-of-mongolia.md)
