@@ -31,12 +31,36 @@ A simple form in HTML may look like this:
 </form>
 ```
 
+### Form! Action! Method! 
+
 Breaking that into small pieces, let's begin with the parent `<form>` tag:
 
 * `action` refers to where the form will take us once we _submit_ the form
 * `method` refers to what the URL will look like upon the form's submission
   * `post` - the URL would have no query strings \(the URL would have "?" followed by some text\)
   * `get` the URL would have query strings \(e.g. `index.html?fname=Jon`\)
+
+### Fields
+
+The `<form>` has **fields,** each of which has a `<label>` tag:
+
+* to tell the user what each field will contain
+* to give focus to the form field when the user clicks on the label
+
+```markup
+    <label for="fname">First name</label>
+    <input type="text" name="fname" id="fname">
+```
+
+Within the `<input>` tag: 
+
+* we use the `id` attribute so that
+  * the **focus ring** will appear around the `<input>` field upon clicking its `<label>` tag
+* we would add a `name` attribute so that 
+  * we store the value typed in by the user
+    * which will get sent to the `action` URL when we submit the form
+
+### Further
 
 As several input types exist, we can give each standard `input` field type of a form its own page: 
 

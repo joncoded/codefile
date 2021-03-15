@@ -21,7 +21,7 @@ In this section, we will review how to:
   * Build HTML [tables](semantic-html/html-tables.md) to display two-dimensional data
   * Build HTML [forms](semantic-html/html-forms/) for user interactivity
 * Manipulate the HTML [head](html-head/) which gives a webpage its metadata
-* Do some [optional stuff](html-optional-tags-and-things.md)
+* Do some [optional stuff](html-tag-gallery.md)
 
 
 
