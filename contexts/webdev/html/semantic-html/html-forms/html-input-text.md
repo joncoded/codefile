@@ -80,5 +80,3 @@ As with radio, `id` attributes must all be unique, while all related fields shar
 <input type="password" id="password" name="password">
 ```
 
-
-
