@@ -4,7 +4,7 @@ description: the online coding notebook of @joncoded
 
 # 🏡 Introduction
 
-Attempting to consolidate notes from years of web development into one coherent notebook!
+An attempt to gather **programming** and **web development** notes into one notebook!
 
 {% hint style="info" %}
 Any topic marked with the 🚧 \(under construction emoji\) still requires finishing at a later date!
