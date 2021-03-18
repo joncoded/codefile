@@ -11,7 +11,7 @@ Any topic marked with the 🚧 \(under construction emoji\) still requires finis
 {% endhint %}
 
 {% hint style="danger" %}
-This project is an ongoing work-in-progress that will likely never finish as hundreds of topics in web development exist! I can only try to have as much as possible here!
+This project remains an ongoing work-in-progress, likely never to finish, as hundreds of topics in web development come and go! 
 {% endhint %}
 
 ### Concepts
