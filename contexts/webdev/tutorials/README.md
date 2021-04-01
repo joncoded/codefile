@@ -8,6 +8,10 @@ More applied guides to achieving web development progress - they typically combi
 
 {% page-ref page="react-with-mapbox-components.md" %}
 
+{% page-ref page="deploying-on-netlify.md" %}
+
+
+
 
 
 
