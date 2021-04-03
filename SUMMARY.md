@@ -41,7 +41,7 @@
     * [🚧 CSS imports](contexts/webdev/css/css-imports.md)
     * [CSS flexbox](contexts/webdev/css/css-flexbox.md)
     * [🚧  CSS grid](contexts/webdev/css/css-grid.md)
-  * [🟨 JavaScript](contexts/webdev/javascript/README.md)
+  * [☀️ JavaScript](contexts/webdev/javascript/README.md)
     * [JavaScript setup](contexts/webdev/javascript/javascript-setup/README.md)
       * [JavaScript and HTML](contexts/webdev/javascript/javascript-setup/javascript-html.md)
       * [JavaScript comments and whitespace](contexts/webdev/javascript/javascript-setup/javascript-comments-whitespace.md)

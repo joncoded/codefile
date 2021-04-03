@@ -2,7 +2,7 @@
 description: the programming language of the internet
 ---
 
-# 🟨 JavaScript
+# ☀️ JavaScript
 
 **JavaScript,** as a programming language, allows webpages to 
 
