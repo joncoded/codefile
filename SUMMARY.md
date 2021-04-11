@@ -23,7 +23,7 @@
     * [Semantic HTML](contexts/webdev/html/semantic-html/README.md)
       * [HTML tables](contexts/webdev/html/semantic-html/html-tables.md)
       * [HTML forms](contexts/webdev/html/semantic-html/html-forms/README.md)
-        * [🚧 HTML inputs](contexts/webdev/html/semantic-html/html-forms/html-input-text.md)
+        * [HTML inputs](contexts/webdev/html/semantic-html/html-forms/html-input-text.md)
         * [🚧 HTML select](contexts/webdev/html/semantic-html/html-forms/html-select.md)
         * [🚧 HTML textarea](contexts/webdev/html/semantic-html/html-forms/html-textarea.md)
         * [🚧 HTML fieldset and legend](contexts/webdev/html/semantic-html/html-forms/html-fieldset-legend.md)

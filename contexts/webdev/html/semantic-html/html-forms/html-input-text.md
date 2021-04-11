@@ -2,7 +2,7 @@
 description: allowing the user to input one line of plain text
 ---
 
-# 🚧 HTML inputs
+# HTML inputs
 
 ### HTML input: text
 
