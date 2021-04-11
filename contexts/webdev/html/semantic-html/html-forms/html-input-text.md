@@ -13,6 +13,13 @@ description: allowing the user to input one line of plain text
 <input type="text" id="firstName" name="firstName">
 ```
 
+The `placeholder` attribute displays a suggested value for the input field \(but the form will not include the value by default when the user submits the form\)
+
+```markup
+<label for="firstName">First name</label>
+<input type="text" id="firstName" name="firstName" placeholder="e.g. Jon">
+```
+
 ### HTML input: radio
 
 **Radio** inputs appear when the user needs to make _**one choice out of two or more possible choices**_: 
@@ -79,4 +86,8 @@ As with radio, `id` attributes must all be unique, while all related fields shar
 <label for="password">Password:</label>
 <input type="password" id="password" name="password">
 ```
+
+### HTML input: number
+
+### HTML input: c
 
