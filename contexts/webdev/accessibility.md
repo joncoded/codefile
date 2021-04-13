@@ -46,5 +46,11 @@ The four "POUR" principles and questions to ask when determining the accessibili
 * the order of elements matters, i.e.:
   * [right-floated](https://developer.mozilla.org/en-US/docs/Web/CSS/float) elements will still focus first
 
+#### Organization
 
+* keeping a document or system organized via: 
+  * **heading** hierarchies
+  * **list** hierarchies
+  * sectional **dividers**
+* providing an **alternative to using color** to differentiate objects
 
