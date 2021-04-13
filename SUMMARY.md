@@ -103,6 +103,7 @@
     * [Next.js headers](contexts/webdev/next.js/next.js-headers.md)
   * [👍 Accessibility](contexts/webdev/accessibility/README.md)
     * [Accessibility with hierarchies](contexts/webdev/accessibility/accessibility-with-hierarchies.md)
+    * [Accessibility with fonts](contexts/webdev/accessibility/accessibility-with-fonts.md)
   * [🐙 Git](contexts/webdev/git/README.md)
     * [Git setup](contexts/webdev/git/git-setup.md)
     * [Git terms](contexts/webdev/git/basic-git-terms-and-commands.md)
