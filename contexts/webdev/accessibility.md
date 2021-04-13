@@ -53,4 +53,5 @@ The four "POUR" principles and questions to ask when determining the accessibili
   * **list** hierarchies
   * sectional **dividers**
 * providing an **alternative to using color** to differentiate objects
+  * ensuring decent **color contrast**
 
