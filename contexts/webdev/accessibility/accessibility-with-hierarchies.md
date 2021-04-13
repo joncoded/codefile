@@ -1,6 +1,6 @@
 # Accessibility with hierarchies
 
-**Hierarchies** not only allow screen-reader users to tap into a summary list of sections of a webpage, but also provide some organization in the document:
+**Hierarchies** not only allow screen-reader users to tap into a summary list of sections of a webpage, but also provide some organization in the document for non-users:
 
 ### Heading hierarchies
 
