@@ -27,5 +27,24 @@ In **test-driven development \(TDD\)**, we would write tests before the code \(i
     * some programatically-automated operations
   * it will `assert` the equality, inclusion or some other quality in order to pass the test
 
+#### Web development context \(Chai\)
 
+{% embed url="https://www.chaijs.com/" %}
+
+* describe: "the form is clear"
+  * it: "should have this field empty"
+    * assert "that this field" equals `''`
+  * \(repeat for other text input fields\)
+
+```javascript
+const {assert} = require('chai')
+
+describe('some user story', () => {
+    describe('some story within a story', () => {
+        it ('does this expected thing', () => {
+            assert.equal(browser.getText(selector), text)
+        })
+    })
+})
+```
 
