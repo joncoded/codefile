@@ -47,5 +47,11 @@ Or, when we have to do some hack in HTML \(perhaps because of a client who deman
 Ensure that the element with this role _does not have any meaningful content_ that the screen reader _cannot_ read! 
 {% endhint %}
 
+### Other `role` values
+
+Many more roles exist to improve the screen reader experience and we can find them in this following list on Mozilla: 
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA\_Techniques" %}
+
 
 

@@ -46,6 +46,14 @@ The four "POUR" principles and questions to ask when determining the accessibili
 * the order of elements matters, i.e.:
   * [right-floated](https://developer.mozilla.org/en-US/docs/Web/CSS/float) elements will still focus first
 
+#### State
+
+* a screen reader user needs to know of any changes on the page as they come, e.g.:
+  * what in-page tab is active
+  * whether a `<div>` is expanded or collapsed
+  * the change in the value of a progress bar
+  * the time displayed on a timer
+
 #### Organization
 
 * keeping a document or system organized via: 

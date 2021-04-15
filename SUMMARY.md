@@ -106,6 +106,7 @@
     * [Accessibility with semantic HTML](contexts/webdev/accessibility/accessibility-with-semantic-html.md)
     * [Accessibility with fonts](contexts/webdev/accessibility/accessibility-with-fonts.md)
     * [Accessibility with role attributes](contexts/webdev/accessibility/accessibility-with-role-attributes.md)
+    * [Accessibility with ARIA attributes](contexts/webdev/accessibility/accessibility-with-aria-attributes.md)
   * [🐙 Git](contexts/webdev/git/README.md)
     * [Git setup](contexts/webdev/git/git-setup.md)
     * [Git terms](contexts/webdev/git/basic-git-terms-and-commands.md)
