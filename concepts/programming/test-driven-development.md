@@ -49,3 +49,13 @@ describe('some user story', () => {
 })
 ```
 
+### Testing the "clean test"
+
+The "**FIRST**" rules to determine clean test code: 
+
+* **Fast** - a fast test allows frequent execution
+* **Independent** - tests should not interfere with each other
+* **Repeatable** - tests should work in any environment
+* **Self-validating** - tests should have a direct result - either PASS or FAIL 
+* **Timely** - writing the test code should occur just before writing the program code
+
