@@ -46,6 +46,7 @@ Since semantic HTML has the `<main>` tag, we should opt to use that tag and only
 
 ```markup
 <main>
+<!-- this is content on the site unique to this page -->
 
     <h1>Article title</h1>
     
@@ -59,9 +60,10 @@ Since semantic HTML has the `<main>` tag, we should opt to use that tag and only
     
 </main>
 
-<aside>
+<footer>
+<!-- this content could appear on other pages -->
     ...
-</aside>
+</footer>
 ```
 
 ### `presentation`
