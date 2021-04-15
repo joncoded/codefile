@@ -4,7 +4,7 @@ The `role` attribute helps guide assistive technologies in a few different ways:
 
 ### `complementary`
 
-Helps a screen reader user understand that the information in the `<div>` relates to a main section \(but remains meaningful when separated from it\):
+The `complementary` role helps a screen reader user understand that the information in the `<div>` relates to a main section \(but remains meaningful when separated from it\):
 
 ```markup
 <main>
@@ -16,6 +16,52 @@ Helps a screen reader user understand that the information in the `<div>` relate
     <h3>Other articles you may like</h3>
     ...
 </div>
+```
+
+### `main`
+
+The `main` role helps a screen reader user know the location of the main element of a webpage - as such, it can appear only once per page \(just like an `<h1>` tag\): 
+
+```markup
+<div role="main">
+
+    <h1>Article title</h1>
+    
+    <h2>Subsection</h2>
+    
+    <p>...</p>
+    
+    <h2>Subsection 2</h2>
+    
+    <p>...</p>    
+    
+</div>
+
+<aside>
+    ...
+</aside>
+```
+
+Since semantic HTML has the `<main>` tag, we should opt to use that tag and only reserve the `role="main"` for certain occasions:
+
+```markup
+<main>
+
+    <h1>Article title</h1>
+    
+    <h2>Subsection</h2>
+    
+    <p>...</p>
+    
+    <h2>Subsection 2</h2>
+    
+    <p>...</p>    
+    
+</main>
+
+<aside>
+    ...
+</aside>
 ```
 
 ### `presentation`
