@@ -117,6 +117,7 @@
     * [Git troubleshooting](contexts/webdev/git/git-troubleshooting.md)
     * [🚧 Git and Markdown](contexts/webdev/git/git-and-markdown.md)
   * [🚨 Errors](contexts/webdev/errors.md)
+  * [👨‍🔬 Testing](contexts/webdev/testing.md)
   * [🤔 Theories](contexts/webdev/theories/README.md)
     * [3 basic kinds of websites](contexts/webdev/theories/3-basic-kinds-of-websites.md)
   * [📓 Tutorials](contexts/webdev/tutorials/README.md)
