@@ -4,7 +4,7 @@ The `role` attribute helps define the regions of a web page and guides assistive
 
 ### `complementary`
 
-The `complementary` role helps a screen reader user understand that the information in the `<div>` relates to a main section \(but remains meaningful when separated from it\):
+The `complementary` role helps a screen reader user understand that the information in the `<div>` relates to a `<main>` section: 
 
 ```markup
 <main>
