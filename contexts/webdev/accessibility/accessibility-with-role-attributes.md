@@ -39,7 +39,7 @@ Or, when we have to do some hack in HTML \(perhaps because of a client who deman
 
 <section>
     <!-- a normal section that allows content 
-    to overlap the above section -->
+    (such as an image) to overlap the above section -->
 </section>
 ```
 
