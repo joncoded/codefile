@@ -1,6 +1,6 @@
 # Accessibility with role attributes
 
-The `role` attribute helps guide assistive technologies in a few different ways: 
+The `role` attribute helps define the regions of a web page and guides assistive technologies in a few different ways: 
 
 ### `complementary`
 
@@ -68,7 +68,7 @@ Since semantic HTML has the `<main>` tag, we should opt to use that tag and only
 
 ### `presentation`
 
-When we prefer that the screen reader does not read out the element, e.g. "ordered list" in a list that obviously lists items numerically: 
+When we prefer that the screen reader does not read out the element, e.g. an "ordered list" that obviously lists items numerically, we use the `presentation` role: 
 
 ```markup
 <ol role="presentation">
