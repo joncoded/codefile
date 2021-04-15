@@ -37,9 +37,9 @@ The `main` role helps a screen reader user know the location of the main element
     
 </div>
 
-<aside>
+<footer>
     ...
-</aside>
+</footer>
 ```
 
 Since semantic HTML has the `<main>` tag, we should opt to use that tag and only reserve the `role="main"` for certain occasions:
