@@ -2,14 +2,15 @@
 
 ### Why test-driven \(testing-first\) development?
 
-In **test-driven development \(TDD\)**, we would write tests before the code \(instead of after\), doing such:
+In **test-driven development \(TDD\)**, we would write test code before \(instead of after\) the program code as doing such:
 
-* creates a natural documentation - an outline - of the program that we will write
-* ensures testing infrastructure from the get-go 
+* **creates a** **natural documentation** - an outline - of the program that we will write
+* **ensures testing infrastructure** from the get-go 
   * writing program code first tends to shy away from writing testing code later
     * \(especially if "it works"\) 
-* allows us to test incrementally and focus on modular functionality
-* motivates us to refactor and write cleaner program code
+* **allows for incremental testing** 
+* **focuses on byte-sized functionality**
+* **motivates refactoring** for cleaner program code
 
 ### Test-driven development cycle
 
