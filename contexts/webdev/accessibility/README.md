@@ -1,5 +1,7 @@
 # 👍 Accessibility
 
+Accessibility, in the context of web development, makes website content _readable and/or useable by anyone_! While we sometimes cannot please everyone, we should try to provide enough alternatives to please as many people as possible :\)
+
 ### Definitions
 
 **Accessible web content** deals with the availability of web content to as many people as possible, if not to everyone, via suitable alternatives, e.g.:
