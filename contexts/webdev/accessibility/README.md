@@ -4,7 +4,7 @@ Accessibility, in the context of web development, makes website content _readabl
 
 ### Definitions
 
-**Accessible web content** deals with the availability of web content to as many people as possible, if not to everyone, via suitable alternatives, e.g.:
+**Accessible web content** deals with the availability and usability of web content to as many people as possible, if not to everyone, via suitable alternatives, e.g.:
 
 * hyperlinks with keyboard or other non-mouse methods
 * audio content has a text-based equivalent
