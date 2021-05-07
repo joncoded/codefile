@@ -63,5 +63,9 @@ export default function myStateMachine() {
 ```
 {% endcode %}
 
+{% hint style="info" %}
+As with `myState` and `setMyState`, we could name the parameter `myPreviousState` anything but convention suggests that we include the word `previous` in the name :\)
+{% endhint %}
+
 
 
