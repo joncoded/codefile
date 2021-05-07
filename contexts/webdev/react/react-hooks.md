@@ -43,5 +43,25 @@ Note that `myState` and `setMyState`
   * `set` plus `noun` for the update function
 {% endhint %}
 
+When using the update function, a parameter indicating the **previous state** gets passed in, which we can then use to update the store variable: 
+
+{% code title="app.js" %}
+```jsx
+import React, { useState } from 'react'
+
+export default function myStateMachine() {
+
+    const [ myState, setMyState ] = useState()
+    
+    const doSomething = () => {
+        setMyState((myPreviousState) => {
+            // use the previous state to change the state
+            myPreviousState + 1
+        }
+    }
+}
+```
+{% endcode %}
+
 
 
