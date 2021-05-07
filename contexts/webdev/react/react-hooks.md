@@ -1,6 +1,10 @@
+---
+description: Data management in React
+---
+
 # React hooks
 
-To manage variables in a React app, we could use one type of **React hook** \(a React function called `useState`\) which allows us to:
+To manage data \(i.e. variables\) in a React app, we could use one type of **React hook** \(a React function called `useState`\) which allows us to:
 
 * _store_ the data within a variable
 * _update_ the data using a function upon request
