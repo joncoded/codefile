@@ -93,6 +93,7 @@
     * [React components](contexts/webdev/react/react-components.md)
     * [React props](contexts/webdev/react/react-props.md)
     * [React imports](contexts/webdev/react/react-imports.md)
+    * [React hooks](contexts/webdev/react/react-hooks.md)
     * [🚧 React lifecycle methods](contexts/webdev/react/react-lifecycle-methods.md)
     * [React debugging](contexts/webdev/react/react-debugging.md)
   * [➡️ Next.js](contexts/webdev/next.js/README.md)
