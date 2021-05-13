@@ -34,7 +34,7 @@ This section will cover **web development** to complement the above mentioned pr
 
 {% page-ref page="contexts/webdev/react/" %}
 
-{% page-ref page="contexts/webdev/accessibility/" %}
+{% page-ref page="contexts/webdev/git/accessibility/" %}
 
 {% page-ref page="contexts/webdev/git/" %}
 

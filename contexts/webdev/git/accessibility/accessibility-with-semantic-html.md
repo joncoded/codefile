@@ -1,6 +1,6 @@
 # Accessibility with semantic HTML
 
-When we organize a page with [semantic HTML](../html/semantic-html/), as opposed to just `<div>` elements with `id` attributes, we can allow assistive technologies to summarize the page more readily, for example: 
+When we organize a page with [semantic HTML](../../html/semantic-html/), as opposed to just `<div>` elements with `id` attributes, we can allow assistive technologies to summarize the page more readily, for example: 
 
 * `<div id="nav">` becomes `<nav>` 
 * `<div id="header">` becomes `<header>`
