@@ -36,7 +36,7 @@
     * [HTML special characters](contexts/webdev/html/html-entities-and-symbols.md)
   * [🖼 CSS](contexts/webdev/css/README.md)
     * [CSS setup](contexts/webdev/css/css-setup.md)
-    * [🚧  CSS selectors](contexts/webdev/css/css-selectors.md)
+    * [CSS selectors](contexts/webdev/css/css-selectors.md)
     * [🚧 CSS essentials](contexts/webdev/css/css-essentials.md)
     * [🚧 CSS media queries](contexts/webdev/css/css-media-queries.md)
     * [🚧 CSS imports](contexts/webdev/css/css-imports.md)
