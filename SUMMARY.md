@@ -2,14 +2,6 @@
 
 * [🏡 Introduction](README.md)
 
-## Concepts
-
-* [📖 Programming](concepts/programming/README.md)
-  * [Data structures](concepts/programming/data-structures.md)
-  * [Efficiency \(with big-O notation\)](concepts/programming/big-o-notation.md)
-  * [\(A\)synchronous programming](concepts/programming/asynchronous-programming.md)
-  * [Test-driven development](concepts/programming/test-driven-development.md)
-
 ## Contexts
 
 * [💻 Web development](contexts/webdev/README.md)

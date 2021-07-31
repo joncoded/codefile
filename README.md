@@ -18,8 +18,6 @@ This project remains an ongoing work-in-progress, likely never to finish, as hun
 
 This section will have some abstract **programming** concepts**:**
 
-{% page-ref page="concepts/programming/" %}
-
 ### **Contexts**
 
 This section will cover **web development** to complement the above mentioned programming concepts**:** 

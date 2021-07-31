@@ -14,7 +14,7 @@ description: the things we have to do
 We will see later on this page that: 
 
 * the line between the front-end and the back-end often blurs 
-* [theory](../../concepts/programming/) plays a large role in web development in surprising ways
+* [theory]() plays a large role in web development in surprising ways
 
 ### The front-end
 
