@@ -14,10 +14,6 @@ Any topic marked with the 🚧 \(under construction emoji\) still requires finis
 This project remains an ongoing work-in-progress, likely never to finish, as hundreds of topics in web development come and go! 
 {% endhint %}
 
-### Concepts
-
-This section will have some abstract **programming** concepts**:**
-
 ### **Contexts**
 
 This section will cover **web development** to complement the above mentioned programming concepts**:** 
