@@ -118,8 +118,6 @@
   * [React with Mapbox \(components\)](web-development/tutorials/react-with-mapbox-components.md)
   * [Deploying on Netlify](web-development/tutorials/deploying-on-netlify.md)
 
-## Contexts
-
 ---
 
 * [⬅️ Joncoded.com](https://joncoded.com)
