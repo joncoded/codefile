@@ -64,8 +64,6 @@ We can sum up the Netlify deploy process as the following:
 * npx netlify deploy
 * npx netlify deploy --prod
 
-![What the Netlify deployment process actually looks like in Terminal!](https://www.joncoded.com/wp-content/uploads/netlify.jpg)
-
 ### References <a id="block-639d2aeb-ff73-44b3-8a02-1bb6f12a9fc2"></a>
 
 * [Chris Dixon](https://www.youtube.com/watch?v=QnNdneKQR9M) \(YouTube\)
