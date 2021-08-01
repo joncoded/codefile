@@ -2,7 +2,7 @@
 description: the things we have to do
 ---
 
-# 💻 Web development
+# 💻 Introduction
 
 ### **Introduction**
 
@@ -29,13 +29,13 @@ The front-end usually involves the following "3 S's":
   * to manage **user input** and **data changes**
   * to work with the back-end
 
-{% page-ref page="html/" %}
+{% page-ref page="../html/" %}
 
-{% page-ref page="css/" %}
+{% page-ref page="../css/" %}
 
-{% page-ref page="javascript/" %}
+{% page-ref page="../javascript/" %}
 
-{% page-ref page="react/" %}
+{% page-ref page="../react/" %}
 
 Sometimes, front-end developers may have to take part in:
 
@@ -63,7 +63,7 @@ Each developer may also have to take part in:
   * to not only submit content "to the cloud" but also to ensure backups if something goes wrong
   * to allow for collaboration by multiple developers within the same project\(s\)
 
-{% page-ref page="git/" %}
+{% page-ref page="../git/" %}
 
 * **Deployment** \(e.g. FTP, Jenkins, Netlify, etc.\)
   * to get that web project onto the Internet!

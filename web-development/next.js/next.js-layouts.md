@@ -186,9 +186,9 @@ export default about
 
 Let's run it and see our pages have this wonderful uniformity!
 
-![the root \(home\) page](../../../.gitbook/assets/next-004.png)
+![the root \(home\) page](../../.gitbook/assets/next-004.png)
 
-![the &quot;about&quot; page](../../../.gitbook/assets/next-005.png)
+![the &quot;about&quot; page](../../.gitbook/assets/next-005.png)
 
 Now, we can almost _just build_ that dynamic multi-page website! 
 

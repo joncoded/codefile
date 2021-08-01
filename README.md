@@ -18,21 +18,21 @@ This project remains an ongoing work-in-progress, likely never to finish, as hun
 
 This section will cover **web development** to complement the above mentioned programming concepts**:** 
 
-{% page-ref page="contexts/webdev/html/" %}
+{% page-ref page="web-development/html/" %}
 
-{% page-ref page="contexts/webdev/css/" %}
+{% page-ref page="web-development/css/" %}
 
-{% page-ref page="contexts/webdev/javascript/" %}
+{% page-ref page="web-development/javascript/" %}
 
-{% page-ref page="contexts/webdev/next.js/" %}
+{% page-ref page="web-development/next.js/" %}
 
-{% page-ref page="contexts/webdev/react/" %}
+{% page-ref page="web-development/react/" %}
 
-{% page-ref page="contexts/webdev/git/accessibility/" %}
+{% page-ref page="web-development/git/accessibility/" %}
 
-{% page-ref page="contexts/webdev/git/" %}
+{% page-ref page="web-development/git/" %}
 
-{% page-ref page="contexts/webdev/tutorials/" %}
+{% page-ref page="web-development/tutorials/" %}
 
 {% hint style="info" %}
 Using [**Gitbook**](https://www.gitbook.com) since this platform has:

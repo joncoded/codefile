@@ -6,7 +6,7 @@ description: using this "hacker-looking" interface to access files
 
 On the Mac, we would usually access the **command line** via an application called Terminal: 
 
-![](../../../.gitbook/assets/2021-01-20-at-22.02.57.png)
+![](../../.gitbook/assets/2021-01-20-at-22.02.57.png)
 
 This interface allows us to:
 

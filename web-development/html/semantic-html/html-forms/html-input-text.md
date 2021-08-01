@@ -80,7 +80,7 @@ As with radio, `id` attributes must all be unique, while all related fields shar
 
 **Passwords** allow the user to type into a field with the characters obscured:
 
-![](../../../../../.gitbook/assets/html-password.png)
+![](../../../../.gitbook/assets/html-password.png)
 
 ```markup
 <label for="password">Password:</label>
